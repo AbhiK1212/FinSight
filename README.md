@@ -2,6 +2,10 @@
 
 A financial sentiment analysis platform with machine learning, real-time API, and production monitoring. Built with DistilBERT, FastAPI, and modern MLOps practices.
 
+## Demo
+
+https://github.com/user-attachments/assets/c861f2af-0554-4eab-82af-90620ae18a01
+
 ## Key Features
 
 - **Financial Sentiment Analysis**: Fine-tuned DistilBERT model on 2,293 real headlines
