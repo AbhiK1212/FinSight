@@ -63,3 +63,8 @@ htmlcov/
 *.joblib
 *.h5
 *.onnx
+
+# Large model files (use Git LFS or download separately)
+data/models/*/model.safetensors
+data/models/fine_tuned_model/
+data/models/sentiment_model/
