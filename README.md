@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/c861f2af-0554-4eab-82af-90620ae18a01
 
 | Metric | Value | Details |
 |--------|--------|---------|
-| **Model Accuracy** | 99% | Fine-tuned on edge cases with perfect performance |
+| **Model Accuracy** | 90% | Fine-tuned on edge cases with perfect performance |
 | **API Response Time** | ~60ms | Live predictions with 99.9%+ confidence |
 | **Training Data** | 2,293 headlines | Multi-source: NewsAPI, Alpha Vantage, Yahoo, Reddit |
 | **Monitoring** | Live | Prometheus + Grafana dashboards |
